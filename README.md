@@ -3,7 +3,7 @@
   <a href="https://vercel.com/vikky413/vk-portfolio" target="_blank">vktech</a>
 </h2>
 <div align="center">
-  <img alt="Demo" src="./Images/readme-img1.png" />
+  <img alt="Demo" src="./Images/my.png" />
 </div>
 
 <br/>
