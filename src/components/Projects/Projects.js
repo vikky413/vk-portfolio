@@ -40,7 +40,7 @@ function Projects() {
               title="VKCHAT"
               description="Real-Time Chat(VKCHAT) is powered by Socket.IO. is a web application that allows multiple users to have a private and public chat. This app allows one to one chat online and its fast and easy to use. For this  application I have used HTML CSS and JAVASCRIPT technologies."
               ghLink="https://github.com/vikky413/ChatAPP"
-              demoLink="https://realtimevkchatapp.herokuapp.com/"
+              demoLink="https://chat-app-eta-lake.vercel.app/"
             />
           </Col>
 
