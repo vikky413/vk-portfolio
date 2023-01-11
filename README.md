@@ -1,6 +1,6 @@
 <h2 align="center">
-  VIKRAM SINGH<br/>
-  <a href="https://soumyajit.vercel.app/" target="_blank">vk-portfolio</a>
+  Portfolio Website - v2.0<br/>
+  <a href="https://vk-portfolio.vercel.app/" target="_blank">vk-portfolio</a>
 </h2>
 <div align="center">
   <img alt="Demo" src="./Images/mine.png" />
