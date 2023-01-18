@@ -8,7 +8,7 @@
 
 <br/>
 
-<center>
+<!-- <center>
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) &nbsp;
 [![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com) &nbsp;
@@ -16,7 +16,7 @@
 ![GitHub Repo stars](https://img.shields.io/github/stars/vikky413/vk-portfolio?color=red&logo=github&style=for-the-badge) &nbsp;
 ![GitHub forks](https://img.shields.io/github/forks/vikky413/vk-portfolio?color=red&logo=github&style=for-the-badge)
 
-</center>
+</center> -->
 
 <h3 align="center">
     🔹
