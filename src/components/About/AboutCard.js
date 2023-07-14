@@ -11,10 +11,11 @@ function AboutCard() {
             Hey everyone, I'm <span className="purple">Vikram Singh </span>
             from <span className="purple"> Satna, India.</span>
             <br />I graduated from Lakshmi Narain College of Technology, Bhopal, with a B.Tech degree. 
-            Currently, I'm working as a <span className="purple"> Software Engineer </span>at<span className="purple">Persistent Systems Limited.</span>
+            Currently, I'm working as a <span className="purple"> Software Engineer </span>at <span className="purple">Persistent Systems Limited.</span>
             <br />
               In my role, I contribute to an exciting Ecommerce project where I primarily work with React for frontend development. Additionally, I specialize in performance and load testing using tools like k6 and Webdriver.io.
             <br />
+              <br />
             Apart from coding, some other activities that I love to do!
           </p>
           <ul>
