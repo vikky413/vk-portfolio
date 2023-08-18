@@ -40,7 +40,7 @@ function NavBar() {
       <Container>
         <Navbar.Brand href="/" className="d-flex">
           {/* <img src={logo} className="img-fluid logo" alt="brand" /> */}
-          <h1><b style={{color:"rgb(168, 101, 201)"}}>V K</b></h1>
+          <h1><b style={{color:"rgb(168, 101, 201)"}}>VIKRAM</b></h1>
         </Navbar.Brand>
         <Navbar.Toggle
           aria-controls="responsive-navbar-nav"

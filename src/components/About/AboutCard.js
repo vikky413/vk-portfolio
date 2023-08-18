@@ -11,24 +11,16 @@ function AboutCard() {
             Hey everyone, I'm <span className="purple">Vikram Singh </span>
             from <span className="purple"> Satna, India.</span>
             <br />I graduated from Lakshmi Narain College of Technology, Bhopal, with a B.Tech degree. 
-            Currently, I'm working as a <span className="purple"> Software Engineer </span>at <span className="purple">Persistent Systems Limited.</span>
             <br />
-              In my role, I contribute to an exciting Ecommerce project where I primarily work with React for frontend development. Additionally, I specialize in performance and load testing using tools like k6 and Webdriver.io.
+            Currently, I have been working for <span className="purple">Persistent Systems Limited Company </span> as a <span className="purple"> Software Engineer </span>.
+            <br />
+            <br />
+              In my role, I was part of the <span className="purple">Constellation Brands </span> Project as a <span className="purple"> front-end developer </span> and worked on implementing <span className="purple">  responsive design, optimizing web performance </span>overall, increasing the user experience for clients, and building <span className="purple"> reusable components </span> for future use using React JS. Validate the data taken from APIs and databases, then validate both data sets using NodeJS. Also tested the <span className="purple">performance and load testing </span> of the APIs using the K6 tool.
             <br />
               <br />
-            Apart from coding, some other activities that I love to do!
+          
           </p>
-          <ul>
-            <li className="about-activity">
-              <ImPointRight /> Playing Games
-            </li>
-            <li className="about-activity">
-              <ImPointRight /> Writting Tech Blogs
-            </li>
-            <li className="about-activity">
-              <ImPointRight /> Travelling
-            </li>
-          </ul>
+         
 
           <p style={{ color: "rgb(155 126 172)" }}>
             "Strive to build things that make a difference!"{" "}
